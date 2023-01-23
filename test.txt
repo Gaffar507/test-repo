@@ -4,3 +4,4 @@ third line is added
 solved the problem or issues.
 Common-line issue is solved.
 For error handle ,frist of all make sure the code format is right, in frist throw the new error file then catch later.
+You cannot ride Lamborghini!
